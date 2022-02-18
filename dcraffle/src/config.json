@@ -1,0 +1,32 @@
+{
+  "proxy" : {
+    "enable" : false,
+    "host" : "127.0.0.1",
+    "port" : 1087
+  },
+  "notification_dingding" : "https://oapi.dingtalk.com/robot/send?access_token=845a41ede57",
+  "notification_discord_channelid" : "73932184566819",
+  "black_word" : ["bot","机器人", "作弊"],
+  "raffle_word": ["GIVEAWAY", "React with"],
+  "dc_account" : [
+    {
+      "name" : "flyo#639",
+      "token" : "41TQzwHu"
+    }, {
+      "name" : "c#779",
+      "token" : "ODk"
+    }
+  ],
+  "monitor_channel" : [{
+      "channel_name" : "ggdino-giveaway",
+      "channel_id" : "92212993334273",
+      "discord_link" : "https://discord.gg/jf4T9N3F"
+    },{
+      "channel_name" : "动物园thezooclub-giveaway",
+      "channel_id" : "9325137487493022",
+      "discord_link" : "https://discord.gg/zhangkai"
+    }
+
+  ]
+
+}
